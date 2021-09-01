@@ -1,7 +1,11 @@
+import Tree from "./components/Tree";
+import data from "./data/data.json";
+
+console.log(data);
 function App() {
   return (
-    <div className="App">
-      
+    <div>
+      <Tree data={data} />
     </div>
   );
 }
