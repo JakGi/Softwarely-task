@@ -1,0 +1,73 @@
+[
+    {
+       "name": "Nagłowek drzewa wielowierszowy",
+       "children": [
+          {
+            "name": "Pododział 1",
+            "children": [
+                {
+                    "name": "Zespół 1 HR",
+                    "children": []    
+                },
+                {
+                    "name": "Zespół 2 Marketing",
+                    "children": []    
+                },
+                {
+                    "name": "Zespół 3 Analitycy",
+                    "children": [
+                        {
+                            "name": "Podzespół 3.1 Kalendarz"
+                        },
+                        {
+                            "name": "Podzespół 3.1 Kokpit"
+                        },
+                        {
+                            "name": "Podzespół 3.1 Widok"
+                        },
+                        {
+                            "name": "Podzespół 3.1 Różności"
+                        },
+                        {
+                            "name": "Podzespół 3.1 Szukaj"
+                        }
+                    ]     
+                },
+                {
+                    "name": "Zespół 4 Programisci",
+                    "children": [
+                        {
+                            "name": "Podzespół 4.1 Front-end"
+                        },
+                        {
+                            "name": "Podzespół 4.1 Middle-front-end"
+                        },
+                        {
+                            "name": "Podzespół 4.1 Middle-end"
+                        },
+                        {
+                            "name": "Podzespół 4.1 Middle-back-end"
+                        },
+                        {
+                            "name": "Podzespół 4.1 Back-end"
+                        }
+                    ]     
+                }
+             ]
+          },
+          {
+            "name": "Pododział 2",
+            "children": []
+          },
+          {
+            "name": "Pododział 3",
+            "children": []
+          },
+          {
+            "name": "Niezrzeszeni",
+            "children": []
+          }
+          
+       ]
+    }
+ ]
